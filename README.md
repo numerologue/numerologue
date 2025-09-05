@@ -1,50 +1,34 @@
-<h1 align="center">Numerologue</h1>
+<h1 align="center"> Numerologue 🛡️</h1>
 
-```bash
-$ clear
-$ echo "Welcome to Numerologue Profile"
-$ echo "-------------------------------"
+## 👾 About Me  
+- Passionate about **Cybersecurity**, **Ethical Hacking**, and **Cryptography** 🔐
+- Developer focusing on **Python** 💻
+- Btw I'm **Military** ✈️
 
-$ whoami
-Numerologue
+---
 
-$ pwd
-/home/numerologue 
+## ⚡ Skills & Tools  
+<div align="center">
 
-$ ls -al
-drwxr-xr-x  5 numerologue  numerologue  4096 Sep  5 14:15 .
-drwxr-xr-x  3 root     root     4096 Aug 30 10:12 ..
--rw-r--r--  1 numerologue  numerologue   220 Sep  5 14:10 .bash_profile
--rw-r--r--  1 numerologue  numerologue   180 Sep  5 14:10 .bashrc
-drwxr-xr-x  2 numerologue  numerologue  4096 Sep  5 14:15 Projects
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-$ cd Projects
-$ ls
-lookblox
+</div>
 
-$ cat README.md
-Welcome to my Cybersecurity World!
-----------------------------------
+---
 
-🔐 Name : Numerologue 
-💻 Role : Cybersecurity Enthusiast & Military
-📍 Location : France
-📚 Currently Learning : CyberSec & Cryptography
+## 🕵️ Current Projects  
+- 📂 **CTF Writeups & Challenges**  
 
-Passionate about cybersecurity, I specialize in web pentesting, cryptanalysis and networks. I love CTFs and trying challenges.
+---
 
-# My Tools and Skills
-- 🔧 Penetration Testing : Exploiting vulnerabilities to improve security.
-- 🔒 Cryptography : Study and implementation of encryption and decryption algorithms.
-- 💡 Vulnerability Analysis: Identifying and patching security flaws in software.
+## 🌐 Find Me Online  
+[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR-WEBSITE.com)  
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN) -->
+<!-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/YOUR-USERNAME) -->
+<!-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/YOUR-ID) -->
+[![Root-Me](https://img.shields.io/badge/Root--Me-Challenges-red?style=for-the-badge&logo=underground&logoColor=white)](https://www.root-me.org/Iryr)  
 
-# Active Projects
-- 🕵️‍♂️ LookBlox: A Discord bot for performing OSINT (Open Source Intelligence) on Roblox accounts.
+---
 
-$ cat /etc/motd
-# Welcome to my profile.
-# Let's hack the world, one exploit at a time.
-
-$ echo "Feel free to explore my repositories and contribute!"
-$ exit
-```
+> *"The quieter you become, the more you can hear."* – Ram Dass  
